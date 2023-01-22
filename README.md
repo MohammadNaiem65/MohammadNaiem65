@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Naiem
 - 👀 I’m interested in Learning New Technologies and their versatile usage.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on different projects on TailWind, React, TypeScript, Sass etc. If you want to collaborate on some projects other than them, you can simply cantact me if I am available. 
+- 💞️ I’m looking to collaborate on different projects on TailWind, React, TypeScript, Sass etc. If you want to collaborate on some projects other than them, you can simply cantact me. 
 - 📫 How to reach me-
 1. email: mohammadnaiem661065@gmail.com
 2. linkedIn: www.linkedin.com/in/mohammad-naiem
